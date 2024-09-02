@@ -16,12 +16,20 @@ body{
 }
 .lists{
     font-size: 24px;
-    margin-left: 650px;
+    margin-left: 620px;
     margin-top: -30px;
-    color: white;
+    color: #75b4c4;
     list-style-type: none;
 }
 li{
-    margin-right: 20px;
+    margin-right: 30px;
+    font-family: "SUSE";
     display: inline-block;
+}
+.lists:hover{
+    un
+}
+a{
+    color: #75b4c4;
+    text-decoration: none;
 }
